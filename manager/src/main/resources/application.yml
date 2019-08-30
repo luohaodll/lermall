@@ -10,7 +10,7 @@ spring:
   application:
     name: manager
   datasource:
-    url: jdbc:oracle:thin:@//110.185.100.222:1521/SYSTEMTEST
+    url: jdbc:oracle:thin:@//110.185.100.222:1521/ORCL
     username: SYSTEMTEST
     password: SYSTEMTEST
     driver-class-name: oracle.jdbc.driver.OracleDriver
